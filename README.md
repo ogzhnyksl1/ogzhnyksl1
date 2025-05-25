@@ -29,7 +29,7 @@
   <a href="https://github.com/ogzhnyksl1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ogzhnyksl1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
-    <a href="https://linkedin.com/in/oguzhanyuksel">
+    <a href="https://www.linkedin.com/in/ogzhnyuksel/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ogzhn.yuksel94@gmail.com">
